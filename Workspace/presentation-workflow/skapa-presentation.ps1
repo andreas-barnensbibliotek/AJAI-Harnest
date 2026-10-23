@@ -1,3 +1,5 @@
+param([switch]$McpCommandsOnly)
+
 $ErrorActionPreference = 'Stop'
 $cli = 'D:\Projekt\APPAR\deckcraft-0.8.0-windows-x64-portable\deckcraft-cli.exe'
 $root = Split-Path -Parent $PSScriptRoot
@@ -45,6 +47,15 @@ function Start-Slide($number, $title, $subtitle) {
 
 function Finish-Slide($number, $notes) {
     Add-Command 'slide.notes' @{text=("Underlag: Workspace\AJ-dok\forslag-workflow.md.`n" + $notes + "`nPresentationen sammanfattar ett förslag, inte verifierad driftsättning. Källhänvisningarna i underlaget har inte kontrollerats externt.")}
+    if ($McpCommandsOnly) {
+        $batch = @($script:commands | ForEach-Object {
+            $parts = $_ -split '=', 2
+            @{command=$parts[0]; params=($parts[1] | ConvertFrom-Json)}
+        })
+        ConvertTo-Json -InputObject $batch -Depth 15 |
+            Set-Content -LiteralPath (Join-Path $PSScriptRoot "mcp-slide-$number.json") -Encoding utf8
+        return
+    }
     $arguments = @('run')
     if ($number -gt 1) { $arguments += @('--in', $work) }
     foreach ($command in $script:commands) { $arguments += @('--cmd', $command) }
@@ -143,6 +154,8 @@ Card 640 174 278 'Driftens rutiner' "Var finns kopiorna?`nVem tar emot larm?`nHu
 Box 40 429 878 60 '#00877D' 'roundRect'
 Text 54 436 850 47 'Automatisera kontrollerna – behåll det mänskliga ansvaret.' 25 '#FFFFFF'
 Finish-Slide 10 'Källa: sammanfattande principer och ansvar i faserna 1–6. Frågorna är en sammanfattande checklista härledd ur förslaget, inte nya beslut. Huvudbudskap: automation med mänsklig kontroll, bevarande i driften och ingen manuell metadatadubblering.'
+
+if ($McpCommandsOnly) { return }
 
 New-Item -ItemType Directory -Path $out -Force | Out-Null
 foreach ($extension in @('deckcraft','pptx','pdf')) {
