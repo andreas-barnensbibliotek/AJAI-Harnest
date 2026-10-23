@@ -1,0 +1,52 @@
+{
+  "mcpServers": {
+    "deckcraft": {
+      "command": "D:\\Projekt\\APPAR\\deckcraft-0.8.0-windows-x64-portable\\deckcraft-cli.exe",
+      "args": [
+        "mcp",
+        "--connect",
+        "7990"
+      ]
+    },
+     "wordcraft": {
+      "command": "C:\\Program Files\\WordCraft\\wordcraft-cli.exe",
+      "args": [
+        "mcp",
+        "--automation-read-root",
+        "D:\\Projekt\\APPAR\\",
+        "--automation-write-root",
+        "D:\\Projekt\\APPAR\\"
+      ]
+    },
+    "pdfcraft": {
+      "command": "C:\\Program Files\\PdfCraft\\pdfcraft-cli.exe",
+      "args": [
+        "mcp",
+        "--automation-read-root",
+        "D:\\Projekt\\APPAR\\",
+        "--automation-write-root",
+        "D:\\Projekt\\APPAR\\"
+      ]
+    },
+    "photocraft": {
+      "command": "C:\\Program Files\\PhotoCraft\\photocraft-cli.exe",
+      "args": [
+        "mcp",
+        "--automation-read-root",
+        "D:\\Projekt\\APPAR\\",
+        "--automation-write-root",
+        "D:\\Projekt\\APPAR\\"
+      ]
+    },
+    "gridcraft": {
+      "command": "D:\\Projekt\\APPAR\\gridcraft-0.8.0-windows-x64-portable\\gridcraft-cli.exe",
+      "args": [
+        "mcp",
+        "--automation-read-root",
+        "D:\\Projekt\\APPAR\\",
+        "--automation-write-root",
+        "D:\\Projekt\\APPAR\\"
+      ]
+    }
+  }
+}

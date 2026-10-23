@@ -1,4 +1,4 @@
-# Rekommendation för det fortsatta arbetet och pilotprojekt – RODA för digitalt långtidsbevarande av museisamlingar
+# Rekommendation för det fortsatta arbetet och pilotprojekt – RODA för digitalt långtidsbevarande av det digitala kulturarvet
 
 | | |
 | :--- | :--- |
