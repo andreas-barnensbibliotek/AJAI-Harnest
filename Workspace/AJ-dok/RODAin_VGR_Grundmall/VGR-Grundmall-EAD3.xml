@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="http://ead3.archivists.org/schema/"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xml:lang='{{xml_lang order=1 type="list" list="[sv, en]" label="Språk för metadata" mandatory=true value="sv"}}'>
+  <control>
+    <recordid>{{recordid order=2 type="text" label="Unikt ID för EAD-posten (UUID)" mandatory=true auto-generate="id"}}</recordid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>{{titleproper order=3 type="text" label="Titel på arkivredovisningen" mandatory=true auto-generate="title"}}</titleproper>
+      </titlestmt>
+    </filedesc>
+    <maintenancestatus value='{{maintenancestatus order=4 type="list" list="[new, revised]" label="Underhållsstatus" mandatory=true value="new"}}'/>
+    <maintenanceagency>
+      <agencyname>{{agencyname order=5 type="text" label="Ansvarig organisation/arkivbildare" mandatory=true}}</agencyname>
+    </maintenanceagency>
+    <maintenancehistory>
+      <maintenanceevent>
+        <eventtype value='{{eventtype order=6 type="list" list="[created, revised]" label="Typ av underhållshändelse" mandatory=true value="created"}}'/>
+        <eventdatetime standarddatetime='{{eventdatetime order=7 type="date" label="Datum för händelsen" mandatory=true auto-generate="now"}}'>{{eventdatetime_display order=8 type="text" label="Datum för visning (t.ex. 2026-10-23)"}}</eventdatetime>
+        <agenttype value='{{agenttype order=9 type="list" list="[human, machine, unknown]" label="Typ av aktör" mandatory=true value="human"}}'/>
+        <agent>{{agent order=10 type="text" label="Aktör/system som skapade eller ändrade posten" mandatory=true}}</agent>
+        <eventdescription>{{eventdescription order=11 type="text-area" label="Beskrivning av händelsen" mandatory=true value="Skapande av EAD3-post enligt VGR Specifikation för paketstruktur 3.0."}}</eventdescription>
+      </maintenanceevent>
+    </maintenancehistory>
+  </control>
+  <archdesc level='{{archdesc_level order=12 type="list" list="[fonds, series, subseries, file, item]" label="Beskrivningsnivå" mandatory=true}}'>
+    <did>
+      <unitid>{{unitid order=13 type="text" label="Referens/identifierare för arkivnivån" mandatory=true}}</unitid>
+      <unittitle>{{unittitle order=14 type="text" label="Titel på arkiv, serie, mapp/akt eller objekt" mandatory=true auto-generate="title"}}</unittitle>
+      <unitdatestructured calendar="gregorian" era="ce">
+        <daterange>
+          <fromdate standarddate='{{fromdate order=15 type="date" label="Startdatum (om känt)"}}'>{{fromdate_display order=16 type="text" label="Startdatum för visning (YYYY-MM-DD)"}}</fromdate>
+          <todate standarddate='{{todate order=17 type="date" label="Slutdatum (om känt)"}}'>{{todate_display order=18 type="text" label="Slutdatum för visning (YYYY-MM-DD)"}}</todate>
+        </daterange>
+      </unitdatestructured>
+      <abstract>{{abstract order=19 type="text-area" label="Kort sammanfattning"}}</abstract>
+      <langmaterial>
+        <language languagecode='{{languagecode order=20 type="text" label="Språkkod, om relevant" value="swe"}}'>{{language order=21 type="text" label="Språk, om relevant" value="Svenska"}}</language>
+      </langmaterial>
+    </did>
+    <scopecontent>
+      <p>{{scopecontent order=22 type="text-area" label="Omfång och innehåll / beskrivning"}}</p>
+    </scopecontent>
+    <accessrestrict>
+      <p>{{accessrestrict order=23 type="text-area" label="Begränsningar i tillgänglighet, om tillämpligt"}}</p>
+    </accessrestrict>
+    <userestrict>
+      <p>{{userestrict order=24 type="text-area" label="Begränsningar i användning/rättigheter, om tillämpligt"}}</p>
+    </userestrict>
+    <appraisal>
+      <p>{{appraisal order=25 type="text-area" label="Bevarande- eller gallringsbeslut, om tillämpligt"}}</p>
+    </appraisal>
+    <relatedmaterial>
+      <p>{{relatedmaterial order=26 type="text-area" label="Relaterat material/diarienummer, om tillämpligt"}}</p>
+    </relatedmaterial>
+    <didnote localtype="packagespecification">
+      <p>{{packagespecification order=27 type="text" label="Paketspecifikation" mandatory=true value="VGR Specifikation för paketstruktur 3.0"}}</p>
+    </didnote>
+    <didnote localtype="contentspecification">
+      <p>{{contentspecification order=28 type="text" label="Innehållsspecifikation (om tillämpligt)" value="Gemensam grundmall för museernas digitala kulturarv"}}</p>
+    </didnote>
+  </archdesc>
+</ead>
