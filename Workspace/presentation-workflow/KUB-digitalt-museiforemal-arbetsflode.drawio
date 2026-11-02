@@ -1,0 +1,1056 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net" agent="KUB workflow">
+  <diagram id="p01" name="01 Översikt">
+    <mxGraphModel dx="1800" dy="1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1250" math="0" shadow="0" background="#FFFFFF" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="Från originalbild till aktivt digitalt bevarande" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=#0F172A;spacing=0;">
+          <mxGeometry x="40" y="25" width="1700" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" value="Läs huvudkedjan uppifrån och ned. Detaljsidorna visar grindar, ansvar, standarder och återkoppling till museet." vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=#475569;spacing=0;">
+          <mxGeometry x="40" y="85" width="1700" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="left-header" value="LÄSANVISNING OCH EXEMPEL" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#B91C1C;spacing=0;">
+          <mxGeometry x="40" y="140" width="370" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="flow-header" value="AKTIVITET • ANSVAR • RESULTAT" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#475569;spacing=0;">
+          <mxGeometry x="480" y="140" width="480" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="notes-header" value="STANDARDER OCH TILLÄMPNING" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#C2410C;spacing=0;">
+          <mxGeometry x="1040" y="140" width="700" height="25" as="geometry" />
+        </mxCell>
+        <object id="nav0" label="&lt;b&gt;Översikt&lt;/b&gt;" tooltip="Översikt | " link="data:page/id,p01">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav1" label="&lt;b&gt;Standarder / ansvar&lt;/b&gt;" tooltip="Standarder / ansvar | " link="data:page/id,p09">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="470" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav2" label="&lt;b&gt;Nästa sida&lt;/b&gt;" tooltip="Nästa sida | " link="data:page/id,p02">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="900" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="footer" value="KUB • arbetsförslag enligt underlagen • klicka på navigeringsrutorna • beslut och lokala profiler måste fastställas före drift" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=#475569;spacing=0;">
+          <mxGeometry x="40" y="1220" width="1700" height="22" as="geometry" />
+        </mxCell>
+        <object id="o1" label="&lt;b&gt;1–2 • Ta emot och katalogisera&lt;/b&gt;&lt;br&gt;Museet / Primus&lt;br&gt;Identifierare, proveniens, beskrivning och rättigheter → sida 02" tooltip="1–2 • Ta emot och katalogisera | Museet / Primus | Identifierare, proveniens, beskrivning och rättigheter → sida 02" link="data:page/id,p02">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="180" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="o2" label="&lt;b&gt;3–4 • Säkra filer och innehåll&lt;/b&gt;&lt;br&gt;Museet&lt;br&gt;Master + arbets-/visningskopior; kvalitetsbeslut → sida 03" tooltip="3–4 • Säkra filer och innehåll | Museet | Master + arbets-/visningskopior; kvalitetsbeslut → sida 03" link="data:page/id,p03">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="335" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-o1-o2" value="" edge="1" parent="1" source="o1" target="o2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="o3" label="&lt;b&gt;5–6 • Exportera och bygg SIP&lt;/b&gt;&lt;br&gt;Informationsförvaltning + bevarandefunktion&lt;br&gt;Metadata, filer och manifest → sida 04" tooltip="5–6 • Exportera och bygg SIP | Informationsförvaltning + bevarandefunktion | Metadata, filer och manifest → sida 04" link="data:page/id,p04">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="490" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-o2-o3" value="" edge="1" parent="1" source="o2" target="o3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="o4" label="&lt;b&gt;6–7 • Validera i RODA; skapa AIP&lt;/b&gt;&lt;br&gt;Bevarandefunktion + IT/KSD&lt;br&gt;Godkänd ingest, kvittens och AIP-ID → sida 05" tooltip="6–7 • Validera i RODA; skapa AIP | Bevarandefunktion + IT/KSD | Godkänd ingest, kvittens och AIP-ID → sida 05" link="data:page/id,p05">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFBF1;strokeColor=#0F766E;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="645" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-o3-o4" value="" edge="1" parent="1" source="o3" target="o4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="o5" label="&lt;b&gt;8 • Lagra och bevara aktivt&lt;/b&gt;&lt;br&gt;IT/KSD + bevarandeexpertis&lt;br&gt;Redundans, integritet och formatbevakning → sida 06" tooltip="8 • Lagra och bevara aktivt | IT/KSD + bevarandeexpertis | Redundans, integritet och formatbevakning → sida 06" link="data:page/id,p06">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFBF1;strokeColor=#0F766E;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="800" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-o4-o5" value="" edge="1" parent="1" source="o4" target="o5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="o6" label="&lt;b&gt;9–10 • Tillgängliggör och följ upp&lt;/b&gt;&lt;br&gt;Museet + informationsförvaltning + IT/KSD&lt;br&gt;DIP och publiceringsbeslut → 07; ändringar → 08" tooltip="9–10 • Tillgängliggör och följ upp | Museet + informationsförvaltning + IT/KSD | DIP och publiceringsbeslut → 07; ändringar → 08" link="data:page/id,p07">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="955" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-o5-o6" value="" edge="1" parent="1" source="o5" target="o6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="example" label="&lt;b&gt;Ett fotografi följer hela kedjan&lt;/b&gt;&lt;br&gt;Övnings-ID: ULRI-FOTO-00125.&lt;br&gt;Exempelmotiv: ett posthus, cirka 1920.&lt;br&gt;Ort och bildkälla måste verifieras före skarp katalogisering; se sida 02." tooltip="Ett fotografi följer hela kedjan | Övnings-ID: ULRI-FOTO-00125. | Exempelmotiv: ett posthus, cirka 1920. | Ort och bildkälla måste verifieras före skarp katalogisering; se sida 02." link="data:page/id,p02">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="180" width="360" height="230" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="reading" label="&lt;b&gt;Börja här&lt;/b&gt;&lt;br&gt;1. Läs huvudkedjan i mitten.&lt;br&gt;2. Öppna respektive detaljsida.&lt;br&gt;3. Läs standardnoteringen till höger.&lt;br&gt;4. Följ avvikelser och steg-ID tillbaka.&lt;br&gt;5. Använd flikar eller sidlänkar för navigering." tooltip="Börja här | 1. Läs huvudkedjan i mitten. | 2. Öppna respektive detaljsida. | 3. Läs standardnoteringen till höger. | 4. Följ avvikelser och steg-ID tillbaka. | 5. Använd flikar eller sidlänkar för navigering.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="450" width="360" height="230" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="followup" label="&lt;b&gt;Arbetet fortsätter efter leveransen&lt;/b&gt;&lt;br&gt;Integritet och läsbarhet kontrolleras återkommande (06).&lt;br&gt;Rättigheter prövas före publicering (07).&lt;br&gt;Ny kunskap och ändringar återförs med historik (08)." tooltip="Arbetet fortsätter efter leveransen | Integritet och läsbarhet kontrolleras återkommande (06). | Rättigheter prövas före publicering (07). | Ny kunskap och ändringar återförs med historik (08)." link="data:page/id,p08">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="720" width="360" height="230" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note0" label="&lt;b&gt;Process ≠ modell ≠ format ≠ system&lt;/b&gt;&lt;br&gt;&lt;b&gt;Spectrum&lt;/b&gt;: arbetsprocess och ansvar.&lt;br&gt;&lt;b&gt;CIDOC CRM&lt;/b&gt;: semantiska begrepp och relationer.&lt;br&gt;&lt;b&gt;LIDO / Dublin Core&lt;/b&gt;: informationsutbyte.&lt;br&gt;&lt;b&gt;OAIS&lt;/b&gt;: referensmodell med SIP, AIP och DIP.&lt;br&gt;&lt;b&gt;Primus / RODA&lt;/b&gt;: system, inte standarder." tooltip="Process ≠ modell ≠ format ≠ system | &lt;b&gt;Spectrum&lt;/b&gt;: arbetsprocess och ansvar. | &lt;b&gt;CIDOC CRM&lt;/b&gt;: semantiska begrepp och relationer. | &lt;b&gt;LIDO / Dublin Core&lt;/b&gt;: informationsutbyte. | &lt;b&gt;OAIS&lt;/b&gt;: referensmodell med SIP, AIP och DIP. | &lt;b&gt;Primus / RODA&lt;/b&gt;: system, inte standarder.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="180" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note1" label="&lt;b&gt;Tre ansvarsnivåer&lt;/b&gt;&lt;br&gt;&lt;b&gt;Blått – museet:&lt;/b&gt; innehåll, rättigheter och verksamhetsbeslut.&lt;br&gt;&lt;b&gt;Lila – informationsförvaltning:&lt;/b&gt; modeller, fält, profiler och mappning.&lt;br&gt;&lt;b&gt;Turkost – IT/KSD:&lt;/b&gt; drift, lagring och tekniska kontroller." tooltip="Tre ansvarsnivåer | &lt;b&gt;Blått – museet:&lt;/b&gt; innehåll, rättigheter och verksamhetsbeslut. | &lt;b&gt;Lila – informationsförvaltning:&lt;/b&gt; modeller, fält, profiler och mappning. | &lt;b&gt;Turkost – IT/KSD:&lt;/b&gt; drift, lagring och tekniska kontroller.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="410" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note2" label="&lt;b&gt;Så läses beslut och återgångar&lt;/b&gt;&lt;br&gt;&lt;b&gt;Gul romb:&lt;/b&gt; kontrollgrind; följ svaret på pilen.&lt;br&gt;&lt;b&gt;Röd sidogren:&lt;/b&gt; avvikelse eller åtgärdsgren.&lt;br&gt;En återgång med steg-ID är en uttrycklig fortsättning, inte en avslutad process.&lt;br&gt;Klickbara sidhänvisningar öppnar detaljsidor." tooltip="Så läses beslut och återgångar | &lt;b&gt;Gul romb:&lt;/b&gt; kontrollgrind; följ svaret på pilen. | &lt;b&gt;Röd sidogren:&lt;/b&gt; avvikelse eller åtgärdsgren. | En återgång med steg-ID är en uttrycklig fortsättning, inte en avslutad process. | Klickbara sidhänvisningar öppnar detaljsidor.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="640" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note3" label="&lt;b&gt;Viktiga gränser&lt;/b&gt;&lt;br&gt;Bevaranderätt är inte publiceringsrätt.&lt;br&gt;Backup är inte ett AIP eller en aktiv bevarandeprocess.&lt;br&gt;DIP är inte samma sak som webbpublicering.&lt;br&gt;Originalet skrivs inte över av bearbetning eller export." tooltip="Viktiga gränser | Bevaranderätt är inte publiceringsrätt. | Backup är inte ett AIP eller en aktiv bevarandeprocess. | DIP är inte samma sak som webbpublicering. | Originalet skrivs inte över av bearbetning eller export.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="870" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="p02" name="02 Mottagning och katalogisering">
+    <mxGraphModel dx="1800" dy="1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1250" math="0" shadow="0" background="#FFFFFF" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="02 • Mottagning, identitet och katalogisering" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=#0F172A;spacing=0;">
+          <mxGeometry x="40" y="25" width="1700" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" value="Instruktionernas steg 1–2 • Ansvar: museet och samlingsförvaltaren; informationsförvaltning stödjer begrepp och identifierare." vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=#475569;spacing=0;">
+          <mxGeometry x="40" y="85" width="1700" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="left-header" value="AVVIKELSE / ÅTERGÅNG" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#B91C1C;spacing=0;">
+          <mxGeometry x="40" y="140" width="370" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="flow-header" value="AKTIVITET • ANSVAR • RESULTAT" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#475569;spacing=0;">
+          <mxGeometry x="480" y="140" width="480" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="notes-header" value="STANDARDER OCH TILLÄMPNING" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#C2410C;spacing=0;">
+          <mxGeometry x="1040" y="140" width="700" height="25" as="geometry" />
+        </mxCell>
+        <object id="nav0" label="&lt;b&gt;Översikt&lt;/b&gt;" tooltip="Översikt | " link="data:page/id,p01">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav1" label="&lt;b&gt;Standarder / ansvar&lt;/b&gt;" tooltip="Standarder / ansvar | " link="data:page/id,p09">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="470" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav2" label="&lt;b&gt;Föregående sida&lt;/b&gt;" tooltip="Föregående sida | " link="data:page/id,p01">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="900" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav3" label="&lt;b&gt;Nästa sida&lt;/b&gt;" tooltip="Nästa sida | " link="data:page/id,p03">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1330" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="footer" value="KUB • arbetsförslag enligt underlagen • klicka på navigeringsrutorna • beslut och lokala profiler måste fastställas före drift" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=#475569;spacing=0;">
+          <mxGeometry x="40" y="1220" width="1700" height="22" as="geometry" />
+        </mxCell>
+        <object id="m1" label="&lt;b&gt;M1 • Registrera mottagningen&lt;/b&gt;&lt;br&gt;Museet: ta emot bild och leveransuppgifter.&lt;br&gt;Notera leverantör, datum, källa och mottagningsstatus." tooltip="M1 • Registrera mottagningen | Museet: ta emot bild och leveransuppgifter. | Notera leverantör, datum, källa och mottagningsstatus.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="180" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="m2" label="&lt;b&gt;M2 • Identifiera och utred ursprung&lt;/b&gt;&lt;br&gt;Kontrollera motiv, fotograf, datering och proveniens.&lt;br&gt;Skilj belagda uppgifter från antaganden; ange källor." tooltip="M2 • Identifiera och utred ursprung | Kontrollera motiv, fotograf, datering och proveniens. | Skilj belagda uppgifter från antaganden; ange källor.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="335" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-m1-m2" value="" edge="1" parent="1" source="m1" target="m2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="m3" label="&lt;b&gt;M3 • Fastställ identitet&lt;/b&gt;&lt;br&gt;Tilldela unikt objekt-ID; knyt fil till objektpost.&lt;br&gt;Exempel: ULRI-FOTO-00125 (övnings-ID)." tooltip="M3 • Fastställ identitet | Tilldela unikt objekt-ID; knyt fil till objektpost. | Exempel: ULRI-FOTO-00125 (övnings-ID).">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="490" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-m2-m3" value="" edge="1" parent="1" source="m2" target="m3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="m4" label="&lt;b&gt;M4 • Registrera i Primus&lt;/b&gt;&lt;br&gt;Titel, beskrivning, plats, datering, material,&lt;br&gt;fotograf, ämnesord, proveniens och rättighetsstatus." tooltip="M4 • Registrera i Primus | Titel, beskrivning, plats, datering, material, | fotograf, ämnesord, proveniens och rättighetsstatus.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="645" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-m3-m4" value="" edge="1" parent="1" source="m3" target="m4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="m5" label="&lt;b&gt;M5 • Tillräckligt underlag?&lt;/b&gt;&lt;br&gt;Spårbar källa, ID och osäkerheter&lt;br&gt;registrerade enligt lokal rutin?" tooltip="M5 • Tillräckligt underlag? | Spårbar källa, ID och osäkerheter | registrerade enligt lokal rutin?">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#B45309;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;shape=rhombus;rounded=0;align=center;spacing=4;fontSize=18;">
+            <mxGeometry x="530" y="800" width="360" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-m4-m5" value="" edge="1" parent="1" source="m4" target="m5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="m6" label="&lt;b&gt;M6 • Lämna till fil- och kvalitetskontroll&lt;/b&gt;&lt;br&gt;Resultat: objektpost + filreferenser + källor.&lt;br&gt;Status: registrerad; ännu inte bevarandegodkänd → 03." tooltip="M6 • Lämna till fil- och kvalitetskontroll | Resultat: objektpost + filreferenser + källor. | Status: registrerad; ännu inte bevarandegodkänd → 03." link="data:page/id,p03">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="955" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-m5-m6" value="Ja" edge="1" parent="1" source="m5" target="m6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="m5-exception" label="&lt;b&gt;Komplettera och utred&lt;/b&gt;&lt;br&gt;Museet dokumenterar luckor och ansvarig utredare.&lt;br&gt;Åter till M2–M4; pröva sedan M5 igen." tooltip="Komplettera och utred | Museet dokumenterar luckor och ansvarig utredare. | Åter till M2–M4; pröva sedan M5 igen." link="data:page/id,p02">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEE2E2;strokeColor=#B91C1C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="800" width="360" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-m5-m5-exception" value="Nej" edge="1" parent="1" source="m5" target="m5-exception" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#B91C1C;exitX=0;exitY=0.5;entryX=1;entryY=0.5;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="note0" label="&lt;b&gt;Spectrum • när bilden tas emot och beskrivs&lt;/b&gt;&lt;br&gt;&lt;b&gt;Object entry:&lt;/b&gt; dokumentera mottagning och ansvar.&lt;br&gt;&lt;b&gt;Acquisition:&lt;/b&gt; när förvärv är tillämpligt; mottagning är inte automatiskt förvärv.&lt;br&gt;&lt;b&gt;Cataloguing:&lt;/b&gt; kvalitet och spårbar kataloginformation." tooltip="Spectrum • när bilden tas emot och beskrivs | &lt;b&gt;Object entry:&lt;/b&gt; dokumentera mottagning och ansvar. | &lt;b&gt;Acquisition:&lt;/b&gt; när förvärv är tillämpligt; mottagning är inte automatiskt förvärv. | &lt;b&gt;Cataloguing:&lt;/b&gt; kvalitet och spårbar kataloginformation.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="180" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note1" label="&lt;b&gt;CIDOC CRM • när relationer modelleras&lt;/b&gt;&lt;br&gt;Beskriv sambanden: bild – avbildad byggnad – plats;&lt;br&gt;fotografering – aktör – tid; objekt – proveniens.&lt;br&gt;Gemensam semantisk förståelse, inte krav på att Primus lagrar CRM internt.&lt;br&gt;Klasser, relationer och version fastställs i en lokal mappning." tooltip="CIDOC CRM • när relationer modelleras | Beskriv sambanden: bild – avbildad byggnad – plats; | fotografering – aktör – tid; objekt – proveniens. | Gemensam semantisk förståelse, inte krav på att Primus lagrar CRM internt. | Klasser, relationer och version fastställs i en lokal mappning.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="410" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note2" label="&lt;b&gt;Exemplet är inte en verifierad museipost&lt;/b&gt;&lt;br&gt;Underlaget använder posthus i Ulricehamn, cirka 1920,&lt;br&gt;men den inledande bildhänvisningen nämner Bohusläns museum och andra gator.&lt;br&gt;Bekräfta ort, motiv och bildkälla före skarp registrering.&lt;br&gt;Okänd fotograf ska inte ersättas med en gissning." tooltip="Exemplet är inte en verifierad museipost | Underlaget använder posthus i Ulricehamn, cirka 1920, | men den inledande bildhänvisningen nämner Bohusläns museum och andra gator. | Bekräfta ort, motiv och bildkälla före skarp registrering. | Okänd fotograf ska inte ersättas med en gissning.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="640" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note3" label="&lt;b&gt;Utdata och överlämning&lt;/b&gt;&lt;br&gt;Objekt-ID är den röda tråden mellan Primus, filer och paket.&lt;br&gt;Håll fysisk förlaga, bildens innehåll och digital fil isär.&lt;br&gt;Rättighetsstatus kan vara under utredning här; slutlig bevaranderätt prövas på sida 03." tooltip="Utdata och överlämning | Objekt-ID är den röda tråden mellan Primus, filer och paket. | Håll fysisk förlaga, bildens innehåll och digital fil isär. | Rättighetsstatus kan vara under utredning här; slutlig bevaranderätt prövas på sida 03.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="870" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="p03" name="03 Filer och kvalitetsgrind">
+    <mxGraphModel dx="1800" dy="1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1250" math="0" shadow="0" background="#FFFFFF" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="03 • Filversioner, kvalitet och rättighetsgrind" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=#0F172A;spacing=0;">
+          <mxGeometry x="40" y="25" width="1700" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" value="Instruktionernas steg 3–4 • Ansvar: museet; teknisk kompetens stödjer filkontroller och gemensamma rutiner." vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=#475569;spacing=0;">
+          <mxGeometry x="40" y="85" width="1700" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="left-header" value="AVVIKELSE / ÅTERGÅNG" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#B91C1C;spacing=0;">
+          <mxGeometry x="40" y="140" width="370" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="flow-header" value="AKTIVITET • ANSVAR • RESULTAT" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#475569;spacing=0;">
+          <mxGeometry x="480" y="140" width="480" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="notes-header" value="STANDARDER OCH TILLÄMPNING" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#C2410C;spacing=0;">
+          <mxGeometry x="1040" y="140" width="700" height="25" as="geometry" />
+        </mxCell>
+        <object id="nav0" label="&lt;b&gt;Översikt&lt;/b&gt;" tooltip="Översikt | " link="data:page/id,p01">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav1" label="&lt;b&gt;Standarder / ansvar&lt;/b&gt;" tooltip="Standarder / ansvar | " link="data:page/id,p09">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="470" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav2" label="&lt;b&gt;Föregående sida&lt;/b&gt;" tooltip="Föregående sida | " link="data:page/id,p02">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="900" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav3" label="&lt;b&gt;Nästa sida&lt;/b&gt;" tooltip="Nästa sida | " link="data:page/id,p04">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1330" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="footer" value="KUB • arbetsförslag enligt underlagen • klicka på navigeringsrutorna • beslut och lokala profiler måste fastställas före drift" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=#475569;spacing=0;">
+          <mxGeometry x="40" y="1220" width="1700" height="22" as="geometry" />
+        </mxCell>
+        <object id="q1" label="&lt;b&gt;Q1 • Skydda mottagen originalfil&lt;/b&gt;&lt;br&gt;Bevara högsta tillgängliga kvalitet oförändrad.&lt;br&gt;Digitalt född fil behålls i ursprungligt skick." tooltip="Q1 • Skydda mottagen originalfil | Bevara högsta tillgängliga kvalitet oförändrad. | Digitalt född fil behålls i ursprungligt skick.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="180" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="q2" label="&lt;b&gt;Q2 • Skapa separata användningskopior&lt;/b&gt;&lt;br&gt;Arbetskopia för beskärning/färg; visningskopia för webb.&lt;br&gt;Alla versioner länkas till samma objekt-ID." tooltip="Q2 • Skapa separata användningskopior | Arbetskopia för beskärning/färg; visningskopia för webb. | Alla versioner länkas till samma objekt-ID.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="335" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-q1-q2" value="" edge="1" parent="1" source="q1" target="q2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="q3" label="&lt;b&gt;Q3 • Dokumentera teknik och kontrollera&lt;/b&gt;&lt;br&gt;Format, storlek, dimensioner, upplösning, färgrymd,&lt;br&gt;bitdjup, skapandedatum, utrustning och programvara." tooltip="Q3 • Dokumentera teknik och kontrollera | Format, storlek, dimensioner, upplösning, färgrymd, | bitdjup, skapandedatum, utrustning och programvara.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="490" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-q2-q3" value="" edge="1" parent="1" source="q2" target="q3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="q4" label="&lt;b&gt;Q4 • Fil och beskrivning godkända?&lt;/b&gt;&lt;br&gt;Kan filen öppnas, är den komplett&lt;br&gt;och stämmer motiv, ID och metadata?" tooltip="Q4 • Fil och beskrivning godkända? | Kan filen öppnas, är den komplett | och stämmer motiv, ID och metadata?">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#B45309;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;shape=rhombus;rounded=0;align=center;spacing=4;fontSize=18;">
+            <mxGeometry x="530" y="645" width="360" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-q3-q4" value="" edge="1" parent="1" source="q3" target="q4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="q5" label="&lt;b&gt;Q5 • Bevaranderätt fastställd?&lt;/b&gt;&lt;br&gt;Finns dokumenterat stöd att&lt;br&gt;lagra och bevara materialet?" tooltip="Q5 • Bevaranderätt fastställd? | Finns dokumenterat stöd att | lagra och bevara materialet?">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#B45309;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;shape=rhombus;rounded=0;align=center;spacing=4;fontSize=18;">
+            <mxGeometry x="530" y="800" width="360" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-q4-q5" value="Ja" edge="1" parent="1" source="q4" target="q5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="q6" label="&lt;b&gt;Q6 • Godkänn bevarandeunderlag&lt;/b&gt;&lt;br&gt;Museet loggar granskare, datum och begränsningar.&lt;br&gt;Original + metadata + rättighetsbeslut → sida 04." tooltip="Q6 • Godkänn bevarandeunderlag | Museet loggar granskare, datum och begränsningar. | Original + metadata + rättighetsbeslut → sida 04." link="data:page/id,p04">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="955" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-q5-q6" value="Ja" edge="1" parent="1" source="q5" target="q6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="q4-exception" label="&lt;b&gt;Korrigera utan att skriva över master&lt;/b&gt;&lt;br&gt;Utred skada eller felkoppling, rätta metadata eller begär ny leverans.&lt;br&gt;Åter till Q1/Q3 och kontrollera Q4 igen." tooltip="Korrigera utan att skriva över master | Utred skada eller felkoppling, rätta metadata eller begär ny leverans. | Åter till Q1/Q3 och kontrollera Q4 igen." link="data:page/id,p03">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEE2E2;strokeColor=#B91C1C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="645" width="360" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-q4-q4-exception" value="Nej" edge="1" parent="1" source="q4" target="q4-exception" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#B91C1C;exitX=0;exitY=0.5;entryX=1;entryY=0.5;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="q5-exception" label="&lt;b&gt;Spärra överlämning till bevarande&lt;/b&gt;&lt;br&gt;Museet utreder bevaranderätten och dokumenterar beslut.&lt;br&gt;Åter till Q5 efter klartecken; ingen automatisk accept." tooltip="Spärra överlämning till bevarande | Museet utreder bevaranderätten och dokumenterar beslut. | Åter till Q5 efter klartecken; ingen automatisk accept." link="data:page/id,p03">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEE2E2;strokeColor=#B91C1C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="800" width="360" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-q5-q5-exception" value="Nej" edge="1" parent="1" source="q5" target="q5-exception" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#B91C1C;exitX=0;exitY=0.5;entryX=1;entryY=0.5;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="note0" label="&lt;b&gt;Spectrum • Cataloguing / Rights management&lt;/b&gt;&lt;br&gt;Kvalitetssäkra att fil och kataloginformation hör ihop.&lt;br&gt;Dokumentera rättighetsinnehavare, källor och villkor.&lt;br&gt;Bevaranderätt och publiceringsrätt prövas separat;&lt;br&gt;saknad publiceringsrätt hindrar inte tillåtet bevarande." tooltip="Spectrum • Cataloguing / Rights management | Kvalitetssäkra att fil och kataloginformation hör ihop. | Dokumentera rättighetsinnehavare, källor och villkor. | Bevaranderätt och publiceringsrätt prövas separat; | saknad publiceringsrätt hindrar inte tillåtet bevarande.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="180" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note1" label="&lt;b&gt;Lokal filrutin • inte en egen museistandard&lt;/b&gt;&lt;br&gt;&lt;b&gt;original/&lt;/b&gt; ULRI-FOTO-00125_master.tif&lt;br&gt;&lt;b&gt;working/&lt;/b&gt; ULRI-FOTO-00125_edit.tif&lt;br&gt;&lt;b&gt;access/&lt;/b&gt; ULRI-FOTO-00125_web.jpg&lt;br&gt;&lt;b&gt;metadata/&lt;/b&gt; beskrivning och tekniska uppgifter&lt;br&gt;TIFF/JPEG är exempel, inte generella formatkrav." tooltip="Lokal filrutin • inte en egen museistandard | &lt;b&gt;original/&lt;/b&gt; ULRI-FOTO-00125_master.tif | &lt;b&gt;working/&lt;/b&gt; ULRI-FOTO-00125_edit.tif | &lt;b&gt;access/&lt;/b&gt; ULRI-FOTO-00125_web.jpg | &lt;b&gt;metadata/&lt;/b&gt; beskrivning och tekniska uppgifter | TIFF/JPEG är exempel, inte generella formatkrav.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="410" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note2" label="&lt;b&gt;Teknisk metadata ≠ museal beskrivning&lt;/b&gt;&lt;br&gt;Filformat och bitdjup beskriver den digitala representationen.&lt;br&gt;Motiv, fotograf, plats och proveniens beskriver museiobjektet.&lt;br&gt;Behåll koppling mellan nivåerna; filnamnet är inte hela identifieringen." tooltip="Teknisk metadata ≠ museal beskrivning | Filformat och bitdjup beskriver den digitala representationen. | Motiv, fotograf, plats och proveniens beskriver museiobjektet. | Behåll koppling mellan nivåerna; filnamnet är inte hela identifieringen.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="640" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note3" label="&lt;b&gt;Utdata • verifierbar kvalitetsgrind&lt;/b&gt;&lt;br&gt;Dokumenterat kontrollresultat och bevarandebeslut.&lt;br&gt;Ej utredda publiceringsvillkor följer med som begränsning.&lt;br&gt;Original används aldrig som arbetsfil.&lt;br&gt;Metod, formatkrav och toleranser beslutas lokalt." tooltip="Utdata • verifierbar kvalitetsgrind | Dokumenterat kontrollresultat och bevarandebeslut. | Ej utredda publiceringsvillkor följer med som begränsning. | Original används aldrig som arbetsfil. | Metod, formatkrav och toleranser beslutas lokalt.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="870" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="p04" name="04 Metadataexport och SIP">
+    <mxGraphModel dx="1800" dy="1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1250" math="0" shadow="0" background="#FFFFFF" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="04 • Metadataexport, mappning och SIP" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=#0F172A;spacing=0;">
+          <mxGeometry x="40" y="25" width="1700" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" value="Instruktionernas steg 5–6 • Ansvar: informationsförvaltning/systemförvaltning och bevarandefunktion; museet granskar innehållet." vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=#475569;spacing=0;">
+          <mxGeometry x="40" y="85" width="1700" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="left-header" value="AVVIKELSE / ÅTERGÅNG" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#B91C1C;spacing=0;">
+          <mxGeometry x="40" y="140" width="370" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="flow-header" value="AKTIVITET • ANSVAR • RESULTAT" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#475569;spacing=0;">
+          <mxGeometry x="480" y="140" width="480" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="notes-header" value="STANDARDER OCH TILLÄMPNING" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#C2410C;spacing=0;">
+          <mxGeometry x="1040" y="140" width="700" height="25" as="geometry" />
+        </mxCell>
+        <object id="nav0" label="&lt;b&gt;Översikt&lt;/b&gt;" tooltip="Översikt | " link="data:page/id,p01">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav1" label="&lt;b&gt;Standarder / ansvar&lt;/b&gt;" tooltip="Standarder / ansvar | " link="data:page/id,p09">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="470" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav2" label="&lt;b&gt;Föregående sida&lt;/b&gt;" tooltip="Föregående sida | " link="data:page/id,p03">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="900" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav3" label="&lt;b&gt;Nästa sida&lt;/b&gt;" tooltip="Nästa sida | " link="data:page/id,p05">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1330" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="footer" value="KUB • arbetsförslag enligt underlagen • klicka på navigeringsrutorna • beslut och lokala profiler måste fastställas före drift" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=#475569;spacing=0;">
+          <mxGeometry x="40" y="1220" width="1700" height="22" as="geometry" />
+        </mxCell>
+        <object id="s1" label="&lt;b&gt;S1 • Fastställ mottagarens leveransprofil&lt;/b&gt;&lt;br&gt;Krav på paket, metadata, identifierare och format.&lt;br&gt;Besluta profil, version och acceptanskriterier före export." tooltip="S1 • Fastställ mottagarens leveransprofil | Krav på paket, metadata, identifierare och format. | Besluta profil, version och acceptanskriterier före export.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="180" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="s2" label="&lt;b&gt;S2 • Exportera och mappa Primusmetadata&lt;/b&gt;&lt;br&gt;Spara rik beskrivning; använd LIDO och/eller Dublin Core&lt;br&gt;enligt behov. Dokumentera mappning och eventuell förlust." tooltip="S2 • Exportera och mappa Primusmetadata | Spara rik beskrivning; använd LIDO och/eller Dublin Core | enligt behov. Dokumentera mappning och eventuell förlust.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="335" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-s1-s2" value="" edge="1" parent="1" source="s1" target="s2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="s3" label="&lt;b&gt;S3 • Samla paketets delar&lt;/b&gt;&lt;br&gt;Oförändrad master + beskrivande/teknisk metadata&lt;br&gt;+ rättigheter + proveniens; kontrollera filreferenser." tooltip="S3 • Samla paketets delar | Oförändrad master + beskrivande/teknisk metadata | + rättigheter + proveniens; kontrollera filreferenser.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="490" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-s2-s3" value="" edge="1" parent="1" source="s2" target="s3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="s4" label="&lt;b&gt;S4 • Bygg SIP och kontrollsummemanifest&lt;/b&gt;&lt;br&gt;Bevarandefunktionen kopplar leverans-ID till objekt-ID.&lt;br&gt;Beräkna SHA-256 per fil; dokumentera paketeringsverktyg." tooltip="S4 • Bygg SIP och kontrollsummemanifest | Bevarandefunktionen kopplar leverans-ID till objekt-ID. | Beräkna SHA-256 per fil; dokumentera paketeringsverktyg.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFBF1;strokeColor=#0F766E;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="645" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-s3-s4" value="" edge="1" parent="1" source="s3" target="s4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="s5" label="&lt;b&gt;S5 • Uppfyller SIP leveransprofilen?&lt;/b&gt;&lt;br&gt;Struktur, obligatoriska metadata,&lt;br&gt;referenser och kontrollsummor korrekta?" tooltip="S5 • Uppfyller SIP leveransprofilen? | Struktur, obligatoriska metadata, | referenser och kontrollsummor korrekta?">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#B45309;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;shape=rhombus;rounded=0;align=center;spacing=4;fontSize=18;">
+            <mxGeometry x="530" y="800" width="360" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-s4-s5" value="" edge="1" parent="1" source="s4" target="s5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="s6" label="&lt;b&gt;S6 • Leverera och registrera överföring&lt;/b&gt;&lt;br&gt;Leverera till avtalad dropzone/transfer med åtkomstskydd.&lt;br&gt;Spara leverans-ID och överföringslogg → sida 05." tooltip="S6 • Leverera och registrera överföring | Leverera till avtalad dropzone/transfer med åtkomstskydd. | Spara leverans-ID och överföringslogg → sida 05." link="data:page/id,p05">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFBF1;strokeColor=#0F766E;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="955" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-s5-s6" value="Ja" edge="1" parent="1" source="s5" target="s6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="s5-exception" label="&lt;b&gt;Rätta paket eller mappning&lt;/b&gt;&lt;br&gt;Rapportera vilket krav som inte uppfylls.&lt;br&gt;Åter till S1–S4 efter ansvar; kör S5 igen.&lt;br&gt;Kontrollsummor räknas om vid legitim ändring." tooltip="Rätta paket eller mappning | Rapportera vilket krav som inte uppfylls. | Åter till S1–S4 efter ansvar; kör S5 igen. | Kontrollsummor räknas om vid legitim ändring." link="data:page/id,p04">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEE2E2;strokeColor=#B91C1C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="800" width="360" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-s5-s5-exception" value="Nej" edge="1" parent="1" source="s5" target="s5-exception" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#B91C1C;exitX=0;exitY=0.5;entryX=1;entryY=0.5;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="note0" label="&lt;b&gt;LIDO / Dublin Core / CIDOC CRM • vid export&lt;/b&gt;&lt;br&gt;&lt;b&gt;LIDO:&lt;/b&gt; XML-baserat musealt informationsutbyte.&lt;br&gt;&lt;b&gt;Dublin Core:&lt;/b&gt; generell, förenklad beskrivning och sökning.&lt;br&gt;&lt;b&gt;CIDOC CRM:&lt;/b&gt; semantisk mappning av relationer.&lt;br&gt;De är inte tre obligatoriska parallella filformat." tooltip="LIDO / Dublin Core / CIDOC CRM • vid export | &lt;b&gt;LIDO:&lt;/b&gt; XML-baserat musealt informationsutbyte. | &lt;b&gt;Dublin Core:&lt;/b&gt; generell, förenklad beskrivning och sökning. | &lt;b&gt;CIDOC CRM:&lt;/b&gt; semantisk mappning av relationer. | De är inte tre obligatoriska parallella filformat.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="180" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note1" label="&lt;b&gt;OAIS • SIP är leveranspaketets roll&lt;/b&gt;&lt;br&gt;SIP = Submission Information Package.&lt;br&gt;Exempel: data/master.tif; metadata/beskrivning.xml,&lt;br&gt;teknik.xml, rättigheter.xml; manifest/checksums.txt.&lt;br&gt;OAIS föreskriver inte just dessa mappnamn eller att beskrivningen måste vara Dublin Core." tooltip="OAIS • SIP är leveranspaketets roll | SIP = Submission Information Package. | Exempel: data/master.tif; metadata/beskrivning.xml, | teknik.xml, rättigheter.xml; manifest/checksums.txt. | OAIS föreskriver inte just dessa mappnamn eller att beskrivningen måste vara Dublin Core.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="410" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note2" label="&lt;b&gt;E-ARK / VGR • villkorad lokal tillämpning&lt;/b&gt;&lt;br&gt;Exempelritningen nämner VGR:s tillämpning av E-ARK&lt;br&gt;CSIP, SIP, AIP och DIP, version 3.0.&lt;br&gt;&lt;b&gt;Själva specifikationen saknas i underlagen.&lt;/b&gt;&lt;br&gt;Bekräfta gällande profil och scheman; exempelpaketet är inte en verifierad E-ARK-konform leverans." tooltip="E-ARK / VGR • villkorad lokal tillämpning | Exempelritningen nämner VGR:s tillämpning av E-ARK | CSIP, SIP, AIP och DIP, version 3.0. | &lt;b&gt;Själva specifikationen saknas i underlagen.&lt;/b&gt; | Bekräfta gällande profil och scheman; exempelpaketet är inte en verifierad E-ARK-konform leverans.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="640" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note3" label="&lt;b&gt;SHA-256 • när filernas integritet förseglas&lt;/b&gt;&lt;br&gt;SHA-256 är en hashfunktion specificerad i FIPS 180-4.&lt;br&gt;Manifestet binder varje filreferens till dess kontrollsumma.&lt;br&gt;Hashen upptäcker ändrade byte, inte felaktigt motiv eller rättighet.&lt;br&gt;Python-paketerare i exemplet är ett verktygsförslag." tooltip="SHA-256 • när filernas integritet förseglas | SHA-256 är en hashfunktion specificerad i FIPS 180-4. | Manifestet binder varje filreferens till dess kontrollsumma. | Hashen upptäcker ändrade byte, inte felaktigt motiv eller rättighet. | Python-paketerare i exemplet är ett verktygsförslag.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="870" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="p05" name="05 RODA ingest och AIP">
+    <mxGraphModel dx="1800" dy="1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1250" math="0" shadow="0" background="#FFFFFF" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="05 • RODA: mottagning, validering och AIP" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=#0F172A;spacing=0;">
+          <mxGeometry x="40" y="25" width="1700" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" value="Instruktionernas steg 6–7 • Ansvar: bevarandefunktionen fastställer acceptansregler; IT/KSD driver den tekniska miljön." vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=#475569;spacing=0;">
+          <mxGeometry x="40" y="85" width="1700" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="left-header" value="AVVIKELSE / ÅTERGÅNG" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#B91C1C;spacing=0;">
+          <mxGeometry x="40" y="140" width="370" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="flow-header" value="AKTIVITET • ANSVAR • RESULTAT" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#475569;spacing=0;">
+          <mxGeometry x="480" y="140" width="480" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="notes-header" value="STANDARDER OCH TILLÄMPNING" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#C2410C;spacing=0;">
+          <mxGeometry x="1040" y="140" width="700" height="25" as="geometry" />
+        </mxCell>
+        <object id="nav0" label="&lt;b&gt;Översikt&lt;/b&gt;" tooltip="Översikt | " link="data:page/id,p01">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav1" label="&lt;b&gt;Standarder / ansvar&lt;/b&gt;" tooltip="Standarder / ansvar | " link="data:page/id,p09">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="470" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav2" label="&lt;b&gt;Föregående sida&lt;/b&gt;" tooltip="Föregående sida | " link="data:page/id,p04">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="900" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav3" label="&lt;b&gt;Nästa sida&lt;/b&gt;" tooltip="Nästa sida | " link="data:page/id,p06">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1330" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="footer" value="KUB • arbetsförslag enligt underlagen • klicka på navigeringsrutorna • beslut och lokala profiler måste fastställas före drift" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=#475569;spacing=0;">
+          <mxGeometry x="40" y="1220" width="1700" height="22" as="geometry" />
+        </mxCell>
+        <object id="r1" label="&lt;b&gt;R1 • Registrera SIP i mottagningsmiljön&lt;/b&gt;&lt;br&gt;RODA: leverans-ID, avsändare, tid och objekt-ID.&lt;br&gt;Kontrollera behörighet; separera ej godkänt material." tooltip="R1 • Registrera SIP i mottagningsmiljön | RODA: leverans-ID, avsändare, tid och objekt-ID. | Kontrollera behörighet; separera ej godkänt material.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFBF1;strokeColor=#0F766E;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="180" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="r2" label="&lt;b&gt;R2 • Kör tekniska kontroller&lt;/b&gt;&lt;br&gt;Verifiera struktur, metadata, filreferenser och kontrollsummor.&lt;br&gt;Identifiera format; samla filinformation och valideringsresultat." tooltip="R2 • Kör tekniska kontroller | Verifiera struktur, metadata, filreferenser och kontrollsummor. | Identifiera format; samla filinformation och valideringsresultat.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFBF1;strokeColor=#0F766E;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="335" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-r1-r2" value="" edge="1" parent="1" source="r1" target="r2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="r3" label="&lt;b&gt;R3 • Pröva kontroller och policy&lt;/b&gt;&lt;br&gt;Bevarandefunktionen bedömer avvikelser och villkor.&lt;br&gt;Malwarekontroll och övriga pluginregler enligt lokal profil." tooltip="R3 • Pröva kontroller och policy | Bevarandefunktionen bedömer avvikelser och villkor. | Malwarekontroll och övriga pluginregler enligt lokal profil.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFBF1;strokeColor=#0F766E;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="490" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-r2-r3" value="" edge="1" parent="1" source="r2" target="r3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="r4" label="&lt;b&gt;R4 • Leveransen accepterad?&lt;/b&gt;&lt;br&gt;Alla obligatoriska kontroller och&lt;br&gt;verksamhetsvillkor uppfyllda?" tooltip="R4 • Leveransen accepterad? | Alla obligatoriska kontroller och | verksamhetsvillkor uppfyllda?">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#B45309;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;shape=rhombus;rounded=0;align=center;spacing=4;fontSize=18;">
+            <mxGeometry x="530" y="645" width="360" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-r3-r4" value="" edge="1" parent="1" source="r3" target="r4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="r5" label="&lt;b&gt;R5 • Skapa och registrera AIP&lt;/b&gt;&lt;br&gt;Original + metadata + proveniens + rättigheter +&lt;br&gt;integritets-/formatresultat och dokumenterade åtgärder." tooltip="R5 • Skapa och registrera AIP | Original + metadata + proveniens + rättigheter + | integritets-/formatresultat och dokumenterade åtgärder.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFBF1;strokeColor=#0F766E;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="800" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-r4-r5" value="Ja" edge="1" parent="1" source="r4" target="r5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="r6" label="&lt;b&gt;R6 • Kvittera och överlämna till lagring&lt;/b&gt;&lt;br&gt;AIP-ID/version + SIP-/objekt-ID + kontrollrapport.&lt;br&gt;Återför status/referens till museet → sidorna 06 och 08." tooltip="R6 • Kvittera och överlämna till lagring | AIP-ID/version + SIP-/objekt-ID + kontrollrapport. | Återför status/referens till museet → sidorna 06 och 08." link="data:page/id,p06">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFBF1;strokeColor=#0F766E;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="955" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-r5-r6" value="" edge="1" parent="1" source="r5" target="r6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="r4-exception" label="&lt;b&gt;Avvisa / håll för granskning&lt;/b&gt;&lt;br&gt;Logga orsak, avsändare och ansvarig.&lt;br&gt;Åter till S1–S5 på sida 04 vid leveransfel; därefter ny ingest.&lt;br&gt;Ingen AIP-framgång kvitteras vid fel." tooltip="Avvisa / håll för granskning | Logga orsak, avsändare och ansvarig. | Åter till S1–S5 på sida 04 vid leveransfel; därefter ny ingest. | Ingen AIP-framgång kvitteras vid fel." link="data:page/id,p04">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEE2E2;strokeColor=#B91C1C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="645" width="360" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-r4-r4-exception" value="Nej" edge="1" parent="1" source="r4" target="r4-exception" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#B91C1C;exitX=0;exitY=0.5;entryX=1;entryY=0.5;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="note0" label="&lt;b&gt;OAIS • från SIP till AIP&lt;/b&gt;&lt;br&gt;&lt;b&gt;SIP:&lt;/b&gt; avsändarens leveranspaket.&lt;br&gt;&lt;b&gt;AIP:&lt;/b&gt; Archival Information Package, arkivets bevarandepaket.&lt;br&gt;Bevara innehåll, representation/sammanhang och spårbarhet.&lt;br&gt;AIP är inte bara en omdöpt TIFF-fil eller backup." tooltip="OAIS • från SIP till AIP | &lt;b&gt;SIP:&lt;/b&gt; avsändarens leveranspaket. | &lt;b&gt;AIP:&lt;/b&gt; Archival Information Package, arkivets bevarandepaket. | Bevara innehåll, representation/sammanhang och spårbarhet. | AIP är inte bara en omdöpt TIFF-fil eller backup.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="180" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note1" label="&lt;b&gt;RODA • system och konfigurerade funktioner&lt;/b&gt;&lt;br&gt;Mottagning, validering, paketregistrering och bevarande.&lt;br&gt;Exempelritningen listar formatdetektor, metadata- och malwarekontroll, behörighet och automatisk accept.&lt;br&gt;&lt;b&gt;Verifiera installerad version, pluginstöd och policy.&lt;/b&gt;&lt;br&gt;Automatisk accept är inte ett generellt krav." tooltip="RODA • system och konfigurerade funktioner | Mottagning, validering, paketregistrering och bevarande. | Exempelritningen listar formatdetektor, metadata- och malwarekontroll, behörighet och automatisk accept. | &lt;b&gt;Verifiera installerad version, pluginstöd och policy.&lt;/b&gt; | Automatisk accept är inte ett generellt krav.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="410" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note2" label="&lt;b&gt;Paketprofil och teknisk integritet&lt;/b&gt;&lt;br&gt;Om E-ARK/VGR väljs ska dess beslutade version valideras.&lt;br&gt;Jämför mottagna kontrollsummor med SIP-manifestet;&lt;br&gt;registrera AIP:s egna integritetsuppgifter och historik.&lt;br&gt;Bevara rapporter även när leveransen avvisas." tooltip="Paketprofil och teknisk integritet | Om E-ARK/VGR väljs ska dess beslutade version valideras. | Jämför mottagna kontrollsummor med SIP-manifestet; | registrera AIP:s egna integritetsuppgifter och historik. | Bevara rapporter även när leveransen avvisas.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="640" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note3" label="&lt;b&gt;Ingestkvittens • tydlig systemgräns&lt;/b&gt;&lt;br&gt;Skilj mottagen, validerad, accepterad och lagrad status.&lt;br&gt;Registrera kopplingen Primus-ID ↔ leverans-ID ↔ AIP-ID/version.&lt;br&gt;Ingen automatisk Primus-integration antas.&lt;br&gt;Fastställ vem som kvitterar och hur status återförs." tooltip="Ingestkvittens • tydlig systemgräns | Skilj mottagen, validerad, accepterad och lagrad status. | Registrera kopplingen Primus-ID ↔ leverans-ID ↔ AIP-ID/version. | Ingen automatisk Primus-integration antas. | Fastställ vem som kvitterar och hur status återförs.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="870" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="p06" name="06 Lagring och aktivt bevarande">
+    <mxGraphModel dx="1800" dy="1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1250" math="0" shadow="0" background="#FFFFFF" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="06 • Lagring, integritet och aktivt bevarande" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=#0F172A;spacing=0;">
+          <mxGeometry x="40" y="25" width="1700" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" value="Instruktionernas steg 8 • Ansvar: IT/KSD för teknik; bevarandeexpertis och museet för policy och innehållsbedömning." vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=#475569;spacing=0;">
+          <mxGeometry x="40" y="85" width="1700" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="left-header" value="AVVIKELSE / ÅTERGÅNG" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#B91C1C;spacing=0;">
+          <mxGeometry x="40" y="140" width="370" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="flow-header" value="AKTIVITET • ANSVAR • RESULTAT" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#475569;spacing=0;">
+          <mxGeometry x="480" y="140" width="480" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="notes-header" value="STANDARDER OCH TILLÄMPNING" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#C2410C;spacing=0;">
+          <mxGeometry x="1040" y="140" width="700" height="25" as="geometry" />
+        </mxCell>
+        <object id="nav0" label="&lt;b&gt;Översikt&lt;/b&gt;" tooltip="Översikt | " link="data:page/id,p01">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav1" label="&lt;b&gt;Standarder / ansvar&lt;/b&gt;" tooltip="Standarder / ansvar | " link="data:page/id,p09">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="470" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav2" label="&lt;b&gt;Föregående sida&lt;/b&gt;" tooltip="Föregående sida | " link="data:page/id,p05">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="900" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav3" label="&lt;b&gt;Nästa sida&lt;/b&gt;" tooltip="Nästa sida | " link="data:page/id,p07">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1330" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="footer" value="KUB • arbetsförslag enligt underlagen • klicka på navigeringsrutorna • beslut och lokala profiler måste fastställas före drift" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=#475569;spacing=0;">
+          <mxGeometry x="40" y="1220" width="1700" height="22" as="geometry" />
+        </mxCell>
+        <object id="b1" label="&lt;b&gt;B1 • Lagra AIP under åtkomstskydd&lt;/b&gt;&lt;br&gt;Skydda original och paket mot obehörig ändring.&lt;br&gt;Knyt bevarande-ID, version, plats och åtkomstpolicy." tooltip="B1 • Lagra AIP under åtkomstskydd | Skydda original och paket mot obehörig ändring. | Knyt bevarande-ID, version, plats och åtkomstpolicy.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFBF1;strokeColor=#0F766E;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="180" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="b2" label="&lt;b&gt;B2 • Upprätthåll oberoende skyddskopior&lt;/b&gt;&lt;br&gt;Separat lagringsplats + säkerhetskopior enligt beslutad policy.&lt;br&gt;Kontrollera redundans och att återläsning fungerar." tooltip="B2 • Upprätthåll oberoende skyddskopior | Separat lagringsplats + säkerhetskopior enligt beslutad policy. | Kontrollera redundans och att återläsning fungerar.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFBF1;strokeColor=#0F766E;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="335" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-b1-b2" value="" edge="1" parent="1" source="b1" target="b2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="b3" label="&lt;b&gt;B3 • Kör återkommande bevarandekontroller&lt;/b&gt;&lt;br&gt;Kontrollsummor, fungerande kopior, formatstatus och loggar.&lt;br&gt;Intervall och larmgränser beslutas och dokumenteras lokalt." tooltip="B3 • Kör återkommande bevarandekontroller | Kontrollsummor, fungerande kopior, formatstatus och loggar. | Intervall och larmgränser beslutas och dokumenteras lokalt.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFBF1;strokeColor=#0F766E;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="490" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-b2-b3" value="" edge="1" parent="1" source="b2" target="b3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="b4" label="&lt;b&gt;B4 • Integritet och kopior godkända?&lt;/b&gt;&lt;br&gt;Motsvarar byte lagrad kontrollsumma&lt;br&gt;och finns fungerande redundans?" tooltip="B4 • Integritet och kopior godkända? | Motsvarar byte lagrad kontrollsumma | och finns fungerande redundans?">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#B45309;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;shape=rhombus;rounded=0;align=center;spacing=4;fontSize=18;">
+            <mxGeometry x="530" y="645" width="360" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-b3-b4" value="" edge="1" parent="1" source="b3" target="b4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="b5" label="&lt;b&gt;B5 • Behövs formatmigrering?&lt;/b&gt;&lt;br&gt;Har formatbevakning identifierat&lt;br&gt;risk för framtida läsbarhet?" tooltip="B5 • Behövs formatmigrering? | Har formatbevakning identifierat | risk för framtida läsbarhet?">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#B45309;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;shape=rhombus;rounded=0;align=center;spacing=4;fontSize=18;">
+            <mxGeometry x="530" y="800" width="360" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-b4-b5" value="Ja" edge="1" parent="1" source="b4" target="b5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="b6" label="&lt;b&gt;B6 • Fortsätt bevarandecykeln&lt;/b&gt;&lt;br&gt;Logga kontrollresultat; nästa körning återgår till B3.&lt;br&gt;AIP tillgängligt för DIP → 07; metadataändring → 08." tooltip="B6 • Fortsätt bevarandecykeln | Logga kontrollresultat; nästa körning återgår till B3. | AIP tillgängligt för DIP → 07; metadataändring → 08." link="data:page/id,p07">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFBF1;strokeColor=#0F766E;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="955" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-b5-b6" value="Nej" edge="1" parent="1" source="b5" target="b6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="b4-exception" label="&lt;b&gt;Integritetsincident&lt;/b&gt;&lt;br&gt;Larma; isolera felaktig kopia. Återställ från verifierad kopia och logga åtgärden.&lt;br&gt;Åter till B3/B4. Byt inte referenshash för att dölja felet." tooltip="Integritetsincident | Larma; isolera felaktig kopia. Återställ från verifierad kopia och logga åtgärden. | Åter till B3/B4. Byt inte referenshash för att dölja felet." link="data:page/id,p06">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEE2E2;strokeColor=#B91C1C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="645" width="360" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-b4-b4-exception" value="Nej" edge="1" parent="1" source="b4" target="b4-exception" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#B91C1C;exitX=0;exitY=0.5;entryX=1;entryY=0.5;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="b5-exception" label="&lt;b&gt;Kontrollerad formatmigrering&lt;/b&gt;&lt;br&gt;Gemensamt beslut; skapa ny representation och validera.&lt;br&gt;Bevara original och åtgärdshistorik enligt policy.&lt;br&gt;Åter till B1/B3 med versionsspår." tooltip="Kontrollerad formatmigrering | Gemensamt beslut; skapa ny representation och validera. | Bevara original och åtgärdshistorik enligt policy. | Åter till B1/B3 med versionsspår." link="data:page/id,p06">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEE2E2;strokeColor=#B91C1C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="800" width="360" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-b5-b5-exception" value="Ja" edge="1" parent="1" source="b5" target="b5-exception" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#B91C1C;exitX=0;exitY=0.5;entryX=1;entryY=0.5;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="note0" label="&lt;b&gt;OAIS • aktiv bevarandeprocess&lt;/b&gt;&lt;br&gt;AIP förvaltas över tid, inte enbart vid den första leveransen.&lt;br&gt;Integritetskontroll, dokumenterade åtgärder och planering för läsbarhet ingår i kedjan.&lt;br&gt;SHA-256 används vid återkommande bytekontroll." tooltip="OAIS • aktiv bevarandeprocess | AIP förvaltas över tid, inte enbart vid den första leveransen. | Integritetskontroll, dokumenterade åtgärder och planering för läsbarhet ingår i kedjan. | SHA-256 används vid återkommande bytekontroll.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="180" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note1" label="&lt;b&gt;Arkitektur i exempelritningen • ej verifierad drift&lt;/b&gt;&lt;br&gt;Powerscale i DC1/DC2/DC3, Cohesity samt separat offsite/air-gap förekommer i ritningen.&lt;br&gt;Behandla detta som arkitekturunderlag, inte bekräftad installation.&lt;br&gt;KSD måste besluta placering, säkerhet, antal kopior och återläsningstester." tooltip="Arkitektur i exempelritningen • ej verifierad drift | Powerscale i DC1/DC2/DC3, Cohesity samt separat offsite/air-gap förekommer i ritningen. | Behandla detta som arkitekturunderlag, inte bekräftad installation. | KSD måste besluta placering, säkerhet, antal kopior och återläsningstester.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="410" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note2" label="&lt;b&gt;Dubbletter ≠ skyddskopior&lt;/b&gt;&lt;br&gt;Ritningens idé om att lagra original/paket en gång bör läsas som undvikna oavsiktliga dubbelleveranser.&lt;br&gt;Den får &lt;b&gt;inte&lt;/b&gt; avskaffa redundans, backup eller versionshistorik.&lt;br&gt;Fastställ hantering av återleverans och avsiktlig ny version." tooltip="Dubbletter ≠ skyddskopior | Ritningens idé om att lagra original/paket en gång bör läsas som undvikna oavsiktliga dubbelleveranser. | Den får &lt;b&gt;inte&lt;/b&gt; avskaffa redundans, backup eller versionshistorik. | Fastställ hantering av återleverans och avsiktlig ny version.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="640" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note3" label="&lt;b&gt;Lokala beslut som återstår&lt;/b&gt;&lt;br&gt;Kontrollintervall, återställningsmål, behörigheter,&lt;br&gt;larmkedja, lagringstid och migreringskriterier.&lt;br&gt;Ingen automatisk gallring härleds ur exempelritningens pluginlista.&lt;br&gt;Museet beslutar innehåll; IT verkställer inte egna värderingar." tooltip="Lokala beslut som återstår | Kontrollintervall, återställningsmål, behörigheter, | larmkedja, lagringstid och migreringskriterier. | Ingen automatisk gallring härleds ur exempelritningens pluginlista. | Museet beslutar innehåll; IT verkställer inte egna värderingar.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="870" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="p07" name="07 DIP och publicering">
+    <mxGraphModel dx="1800" dy="1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1250" math="0" shadow="0" background="#FFFFFF" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="07 • DIP, åtkomst och publiceringsbeslut" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=#0F172A;spacing=0;">
+          <mxGeometry x="40" y="25" width="1700" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" value="Instruktionernas steg 9 • Ansvar: museet beslutar om rättigheter/publicering; bevarandefunktionen och IT/KSD levererar tekniskt." vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=#475569;spacing=0;">
+          <mxGeometry x="40" y="85" width="1700" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="left-header" value="AVVIKELSE / ÅTERGÅNG" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#B91C1C;spacing=0;">
+          <mxGeometry x="40" y="140" width="370" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="flow-header" value="AKTIVITET • ANSVAR • RESULTAT" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#475569;spacing=0;">
+          <mxGeometry x="480" y="140" width="480" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="notes-header" value="STANDARDER OCH TILLÄMPNING" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#C2410C;spacing=0;">
+          <mxGeometry x="1040" y="140" width="700" height="25" as="geometry" />
+        </mxCell>
+        <object id="nav0" label="&lt;b&gt;Översikt&lt;/b&gt;" tooltip="Översikt | " link="data:page/id,p01">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav1" label="&lt;b&gt;Standarder / ansvar&lt;/b&gt;" tooltip="Standarder / ansvar | " link="data:page/id,p09">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="470" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav2" label="&lt;b&gt;Föregående sida&lt;/b&gt;" tooltip="Föregående sida | " link="data:page/id,p06">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="900" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav3" label="&lt;b&gt;Nästa sida&lt;/b&gt;" tooltip="Nästa sida | " link="data:page/id,p08">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1330" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="footer" value="KUB • arbetsförslag enligt underlagen • klicka på navigeringsrutorna • beslut och lokala profiler måste fastställas före drift" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=#475569;spacing=0;">
+          <mxGeometry x="40" y="1220" width="1700" height="22" as="geometry" />
+        </mxCell>
+        <object id="d1" label="&lt;b&gt;D1 • Ta emot åtkomst- eller publiceringsbehov&lt;/b&gt;&lt;br&gt;Museet anger målgrupp, ändamål, urval och kanal.&lt;br&gt;Hämta aktuella rättigheter och begränsningar." tooltip="D1 • Ta emot åtkomst- eller publiceringsbehov | Museet anger målgrupp, ändamål, urval och kanal. | Hämta aktuella rättigheter och begränsningar.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="180" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="d2" label="&lt;b&gt;D2 • Tillåter villkoren önskad åtkomst?&lt;/b&gt;&lt;br&gt;Pröva rättigheter och begränsningar&lt;br&gt;för just målgruppen och användningen." tooltip="D2 • Tillåter villkoren önskad åtkomst? | Pröva rättigheter och begränsningar | för just målgruppen och användningen.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#B45309;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;shape=rhombus;rounded=0;align=center;spacing=4;fontSize=18;">
+            <mxGeometry x="530" y="335" width="360" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-d1-d2" value="" edge="1" parent="1" source="d1" target="d2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="d3" label="&lt;b&gt;D3 • Skapa DIP från bevarat innehåll&lt;/b&gt;&lt;br&gt;Bevarandefunktionen tar fram JPEG/förhandsvisning,&lt;br&gt;beskrivning, källa och rättigheter; vattenstämpel vid behov." tooltip="D3 • Skapa DIP från bevarat innehåll | Bevarandefunktionen tar fram JPEG/förhandsvisning, | beskrivning, källa och rättigheter; vattenstämpel vid behov.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFBF1;strokeColor=#0F766E;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="490" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-d2-d3" value="Ja" edge="1" parent="1" source="d2" target="d3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="d4" label="&lt;b&gt;D4 • Offentlig publicering godkänd?&lt;/b&gt;&lt;br&gt;Museet prövar publiceringsrätt,&lt;br&gt;kanal, urval och eventuella villkor." tooltip="D4 • Offentlig publicering godkänd? | Museet prövar publiceringsrätt, | kanal, urval och eventuella villkor.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#B45309;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;shape=rhombus;rounded=0;align=center;spacing=4;fontSize=18;">
+            <mxGeometry x="530" y="645" width="360" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-d3-d4" value="" edge="1" parent="1" source="d3" target="d4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="d5" label="&lt;b&gt;D5 • Publicera och verifiera&lt;/b&gt;&lt;br&gt;Museet / publiceringstjänst: webb, K-samsök, Europeana&lt;br&gt;eller portal. Kontrollera bild, metadata, länk och villkor." tooltip="D5 • Publicera och verifiera | Museet / publiceringstjänst: webb, K-samsök, Europeana | eller portal. Kontrollera bild, metadata, länk och villkor.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="800" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-d4-d5" value="Ja" edge="1" parent="1" source="d4" target="d5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="d6" label="&lt;b&gt;D6 • Dokumentera användning och status&lt;/b&gt;&lt;br&gt;Registrera DIP-/AIP-referens, version, kanal, datum&lt;br&gt;och beslut. Fortsatt rättighetsuppföljning → sida 08." tooltip="D6 • Dokumentera användning och status | Registrera DIP-/AIP-referens, version, kanal, datum | och beslut. Fortsatt rättighetsuppföljning → sida 08." link="data:page/id,p08">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="955" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-d5-d6" value="" edge="1" parent="1" source="d5" target="d6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="d2-exception" label="&lt;b&gt;Avslå eller begränsa åtkomst&lt;/b&gt;&lt;br&gt;Dokumentera skäl; inget otillåtet utlämnande.&lt;br&gt;Utred annat urval/målgrupp och återgå till D1/D2.&lt;br&gt;Bevarandet påverkas inte automatiskt." tooltip="Avslå eller begränsa åtkomst | Dokumentera skäl; inget otillåtet utlämnande. | Utred annat urval/målgrupp och återgå till D1/D2. | Bevarandet påverkas inte automatiskt." link="data:page/id,p07">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEE2E2;strokeColor=#B91C1C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="335" width="360" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-d2-d2-exception" value="Nej" edge="1" parent="1" source="d2" target="d2-exception" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#B91C1C;exitX=0;exitY=0.5;entryX=1;entryY=0.5;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="d4-exception" label="&lt;b&gt;Ingen offentlig publicering&lt;/b&gt;&lt;br&gt;DIP får bara lämnas till målgrupp som godkänts i D2.&lt;br&gt;Registrera begränsad åtkomst/status enligt D6.&lt;br&gt;Ny rättighet → ny prövning D1–D4." tooltip="Ingen offentlig publicering | DIP får bara lämnas till målgrupp som godkänts i D2. | Registrera begränsad åtkomst/status enligt D6. | Ny rättighet → ny prövning D1–D4." link="data:page/id,p07">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEE2E2;strokeColor=#B91C1C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="645" width="360" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-d4-d4-exception" value="Nej" edge="1" parent="1" source="d4" target="d4-exception" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#B91C1C;exitX=0;exitY=0.5;entryX=1;entryY=0.5;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="note0" label="&lt;b&gt;OAIS • DIP är ett utlämningspaket&lt;/b&gt;&lt;br&gt;DIP = Dissemination Information Package.&lt;br&gt;Innehåll och metadata anpassas för mottagaren.&lt;br&gt;Skapad DIP innebär inte automatiskt fri webbpublicering.&lt;br&gt;Publiceringskopian ersätter aldrig master eller AIP." tooltip="OAIS • DIP är ett utlämningspaket | DIP = Dissemination Information Package. | Innehåll och metadata anpassas för mottagaren. | Skapad DIP innebär inte automatiskt fri webbpublicering. | Publiceringskopian ersätter aldrig master eller AIP.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="180" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note1" label="&lt;b&gt;Spectrum • Rights management / Use&lt;/b&gt;&lt;br&gt;Museet dokumenterar tillåtna användningar och beslut.&lt;br&gt;Pröva både framtagning/åtkomst och offentlig spridning.&lt;br&gt;En bevaranderätt ger inte i sig publiceringsrätt.&lt;br&gt;Restriktioner ska följa utlämnat material." tooltip="Spectrum • Rights management / Use | Museet dokumenterar tillåtna användningar och beslut. | Pröva både framtagning/åtkomst och offentlig spridning. | En bevaranderätt ger inte i sig publiceringsrätt. | Restriktioner ska följa utlämnat material.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="410" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note2" label="&lt;b&gt;LIDO / Dublin Core • vid leverans till kanal&lt;/b&gt;&lt;br&gt;Använd beslutad mottagarmappning för beskrivning och rättigheter.&lt;br&gt;Bekräfta kanalens faktiska tekniska profil;&lt;br&gt;LIDO är inte automatiskt rätt format för varje aggregator.&lt;br&gt;Behåll rik källdata även om kanalen tar emot färre fält." tooltip="LIDO / Dublin Core • vid leverans till kanal | Använd beslutad mottagarmappning för beskrivning och rättigheter. | Bekräfta kanalens faktiska tekniska profil; | LIDO är inte automatiskt rätt format för varje aggregator. | Behåll rik källdata även om kanalen tar emot färre fält.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="640" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note3" label="&lt;b&gt;Resultat och systemgräns&lt;/b&gt;&lt;br&gt;Åtkomstbeslut + DIP + eventuell verifierad publicering.&lt;br&gt;Publicering kan ske från särskild samlingstjänst;&lt;br&gt;någon färdig RODA–Primus–portal-koppling antas inte.&lt;br&gt;Objekt-ID och versionsreferens ger spårbarhet." tooltip="Resultat och systemgräns | Åtkomstbeslut + DIP + eventuell verifierad publicering. | Publicering kan ske från särskild samlingstjänst; | någon färdig RODA–Primus–portal-koppling antas inte. | Objekt-ID och versionsreferens ger spårbarhet.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="870" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="p08" name="08 Ändringar och återkoppling">
+    <mxGraphModel dx="1800" dy="1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1250" math="0" shadow="0" background="#FFFFFF" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="08 • Metadataändringar och fortsatt förvaltning" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=#0F172A;spacing=0;">
+          <mxGeometry x="40" y="25" width="1700" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" value="Instruktionernas steg 10 • Ansvar: museet för innehåll; informationsförvaltning för överföringsregler; bevarandefunktion/IT för versionsspår." vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=#475569;spacing=0;">
+          <mxGeometry x="40" y="85" width="1700" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="left-header" value="AVVIKELSE / ÅTERGÅNG" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#B91C1C;spacing=0;">
+          <mxGeometry x="40" y="140" width="370" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="flow-header" value="AKTIVITET • ANSVAR • RESULTAT" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#475569;spacing=0;">
+          <mxGeometry x="480" y="140" width="480" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="notes-header" value="STANDARDER OCH TILLÄMPNING" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=16;fontColor=#C2410C;spacing=0;">
+          <mxGeometry x="1040" y="140" width="700" height="25" as="geometry" />
+        </mxCell>
+        <object id="nav0" label="&lt;b&gt;Översikt&lt;/b&gt;" tooltip="Översikt | " link="data:page/id,p01">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav1" label="&lt;b&gt;Standarder / ansvar&lt;/b&gt;" tooltip="Standarder / ansvar | " link="data:page/id,p09">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="470" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav2" label="&lt;b&gt;Föregående sida&lt;/b&gt;" tooltip="Föregående sida | " link="data:page/id,p07">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="900" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav3" label="&lt;b&gt;Nästa sida&lt;/b&gt;" tooltip="Nästa sida | " link="data:page/id,p09">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1330" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="footer" value="KUB • arbetsförslag enligt underlagen • klicka på navigeringsrutorna • beslut och lokala profiler måste fastställas före drift" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=#475569;spacing=0;">
+          <mxGeometry x="40" y="1220" width="1700" height="22" as="geometry" />
+        </mxCell>
+        <object id="u1" label="&lt;b&gt;U1 • Ta emot ny uppgift eller ändrat villkor&lt;/b&gt;&lt;br&gt;Museet: fotograf, datering, proveniens, relaterat objekt,&lt;br&gt;nya bilder, rättighet eller publiceringsstatus." tooltip="U1 • Ta emot ny uppgift eller ändrat villkor | Museet: fotograf, datering, proveniens, relaterat objekt, | nya bilder, rättighet eller publiceringsstatus.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="180" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="u2" label="&lt;b&gt;U2 • Granska och uppdatera Primus&lt;/b&gt;&lt;br&gt;Dokumentera källa, ändringsorsak, ansvarig och datum.&lt;br&gt;Bevara koppling till samma objekt-ID." tooltip="U2 • Granska och uppdatera Primus | Dokumentera källa, ändringsorsak, ansvarig och datum. | Bevara koppling till samma objekt-ID.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="335" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-u1-u2" value="" edge="1" parent="1" source="u1" target="u2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="u3" label="&lt;b&gt;U3 • Påverkar ändringen bevarandet?&lt;/b&gt;&lt;br&gt;Berörs AIP-metadata, rättigheter&lt;br&gt;eller digital representation?" tooltip="U3 • Påverkar ändringen bevarandet? | Berörs AIP-metadata, rättigheter | eller digital representation?">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEF3C7;strokeColor=#B45309;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;shape=rhombus;rounded=0;align=center;spacing=4;fontSize=18;">
+            <mxGeometry x="530" y="490" width="360" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-u2-u3" value="" edge="1" parent="1" source="u2" target="u3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="u4" label="&lt;b&gt;U4 • Överför kontrollerad ändringsleverans&lt;/b&gt;&lt;br&gt;Informationsförvaltning tillämpar beslutad mappning.&lt;br&gt;Objekt-ID, AIP-ID, tidigare version och ändringslogg följer med." tooltip="U4 • Överför kontrollerad ändringsleverans | Informationsförvaltning tillämpar beslutad mappning. | Objekt-ID, AIP-ID, tidigare version och ändringslogg följer med.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EDE9FE;strokeColor=#7C3AED;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="645" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-u3-u4" value="Ja" edge="1" parent="1" source="u3" target="u4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="u5" label="&lt;b&gt;U5 • Validera och versionshantera&lt;/b&gt;&lt;br&gt;Bevarandefunktionen tillämpar ingest-/ändringsrutin.&lt;br&gt;Dokumentera historik och ny version; skriv inte över spårlöst." tooltip="U5 • Validera och versionshantera | Bevarandefunktionen tillämpar ingest-/ändringsrutin. | Dokumentera historik och ny version; skriv inte över spårlöst.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFBF1;strokeColor=#0F766E;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="800" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-u4-u5" value="" edge="1" parent="1" source="u4" target="u5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="u6" label="&lt;b&gt;U6 • Kvittera och synkronisera status&lt;/b&gt;&lt;br&gt;Återför AIP-referens/status till museet. Om DIP/publicering&lt;br&gt;berörs: ny prövning på 07. Bevarandecykel fortsätter på 06." tooltip="U6 • Kvittera och synkronisera status | Återför AIP-referens/status till museet. Om DIP/publicering | berörs: ny prövning på 07. Bevarandecykel fortsätter på 06." link="data:page/id,p07">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DBEAFE;strokeColor=#2563EB;fontColor=#0F172A;fontFamily=Helvetica;fontSize=19;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="480" y="955" width="460" height="115" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-u5-u6" value="" edge="1" parent="1" source="u5" target="u6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#475569;exitX=0.5;exitY=1;entryX=0.5;entryY=0;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="u3-exception" label="&lt;b&gt;Enbart verksamhets-/publiceringsändring&lt;/b&gt;&lt;br&gt;Ingen omotiverad AIP-ändring.&lt;br&gt;Registrera beslut och gå till U6 för berörda tjänster;&lt;br&gt;ny åtkomstprövning på sida 07 vid behov." tooltip="Enbart verksamhets-/publiceringsändring | Ingen omotiverad AIP-ändring. | Registrera beslut och gå till U6 för berörda tjänster; | ny åtkomstprövning på sida 07 vid behov." link="data:page/id,p07">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FEE2E2;strokeColor=#B91C1C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="490" width="360" height="130" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="e-u3-u3-exception" value="Nej" edge="1" parent="1" source="u3" target="u3-exception" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;endArrow=block;endFill=1;strokeWidth=2;fontSize=16;fontColor=#334155;labelBackgroundColor=#FFFFFF;strokeColor=#B91C1C;exitX=0;exitY=0.5;entryX=1;entryY=0.5;">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object id="note0" label="&lt;b&gt;Spectrum • fortsatt samlingsförvaltning&lt;/b&gt;&lt;br&gt;Use, Location and movement samt Conservation i underlagets fortsatta förvaltning.&lt;br&gt;För en digital ändring är katalog- och rättighetsrutiner ofta centrala.&lt;br&gt;Tillämpa relevanta procedurer – alla är inte obligatoriska vid varje metadataändring." tooltip="Spectrum • fortsatt samlingsförvaltning | Use, Location and movement samt Conservation i underlagets fortsatta förvaltning. | För en digital ändring är katalog- och rättighetsrutiner ofta centrala. | Tillämpa relevanta procedurer – alla är inte obligatoriska vid varje metadataändring.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="180" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note1" label="&lt;b&gt;CRM / LIDO / DC • när ny kunskap förs vidare&lt;/b&gt;&lt;br&gt;CIDOC CRM håller relationernas betydelse samman.&lt;br&gt;LIDO/DC-mappningar uppdateras och granskas vid behov.&lt;br&gt;Bevara osäkerhet, källhänvisning och detaljer;&lt;br&gt;en förenklad export får inte bli enda källan till museets kunskap." tooltip="CRM / LIDO / DC • när ny kunskap förs vidare | CIDOC CRM håller relationernas betydelse samman. | LIDO/DC-mappningar uppdateras och granskas vid behov. | Bevara osäkerhet, källhänvisning och detaljer; | en förenklad export får inte bli enda källan till museets kunskap.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="410" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note2" label="&lt;b&gt;OAIS • bevarandespår och versioner&lt;/b&gt;&lt;br&gt;Knyt ändring till tidigare AIP och dokumentera åtgärden.&lt;br&gt;Överförings- och valideringsregler på sidorna 04–05 gäller även ändringsleveranser enligt lokal profil.&lt;br&gt;Vid fel: avvisa, rapportera och rätta – inte en falsk kvittens." tooltip="OAIS • bevarandespår och versioner | Knyt ändring till tidigare AIP och dokumentera åtgärden. | Överförings- och valideringsregler på sidorna 04–05 gäller även ändringsleveranser enligt lokal profil. | Vid fel: avvisa, rapportera och rätta – inte en falsk kvittens.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="640" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="note3" label="&lt;b&gt;Rättighetsändring som brådskande sidoflöde&lt;/b&gt;&lt;br&gt;Om publicering inte längre är tillåten: museet initierar&lt;br&gt;omedelbar begränsning/avpublicering i berörda kanaler.&lt;br&gt;Vänta inte på en full AIP-uppdatering innan otillåten åtkomst stoppas.&lt;br&gt;Logga beslut och följ upp publiceringskopior." tooltip="Rättighetsändring som brådskande sidoflöde | Om publicering inte längre är tillåten: museet initierar | omedelbar begränsning/avpublicering i berörda kanaler. | Vänta inte på en full AIP-uppdatering innan otillåten åtkomst stoppas. | Logga beslut och följ upp publiceringskopior.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="1040" y="870" width="700" height="190" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="p09" name="09 Standarder och ansvar">
+    <mxGraphModel dx="1800" dy="1250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1250" math="0" shadow="0" background="#FFFFFF" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="09 • Standardregister och ansvar vid överlämning" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=32;fontColor=#0F172A;spacing=0;">
+          <mxGeometry x="40" y="25" width="1700" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="subtitle" value="Normerande källa är flow-instruktioner; ritningens arkitektur är kompletterande exempel. Exakta utgåvor och lokala profiler måste beslutas." vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=#475569;spacing=0;">
+          <mxGeometry x="40" y="85" width="1700" height="50" as="geometry" />
+        </mxCell>
+        <object id="nav0" label="&lt;b&gt;Översikt&lt;/b&gt;" tooltip="Översikt | " link="data:page/id,p01">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav1" label="&lt;b&gt;Standarder / ansvar&lt;/b&gt;" tooltip="Standarder / ansvar | " link="data:page/id,p09">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="470" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="nav2" label="&lt;b&gt;Föregående sida&lt;/b&gt;" tooltip="Föregående sida | " link="data:page/id,p08">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="900" y="1160" width="400" height="50" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="footer" value="KUB • arbetsförslag enligt underlagen • klicka på navigeringsrutorna • beslut och lokala profiler måste fastställas före drift" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=14;fontColor=#475569;spacing=0;">
+          <mxGeometry x="40" y="1220" width="1700" height="22" as="geometry" />
+        </mxCell>
+        <object id="ref0" label="&lt;b&gt;Spectrum • arbetsprocess&lt;/b&gt;&lt;br&gt;&lt;b&gt;När:&lt;/b&gt; mottagning, förvärv vid behov, katalogisering, rättigheter och fortsatt förvaltning (02, 03, 07, 08).&lt;br&gt;&lt;b&gt;Ägare:&lt;/b&gt; museiverksamheten/samlingsförvaltningen.&lt;br&gt;&lt;b&gt;Inte:&lt;/b&gt; metadataformat eller lagringsprodukt." tooltip="Spectrum • arbetsprocess | &lt;b&gt;När:&lt;/b&gt; mottagning, förvärv vid behov, katalogisering, rättigheter och fortsatt förvaltning (02, 03, 07, 08). | &lt;b&gt;Ägare:&lt;/b&gt; museiverksamheten/samlingsförvaltningen. | &lt;b&gt;Inte:&lt;/b&gt; metadataformat eller lagringsprodukt.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="160" width="840" height="210" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="ref1" label="&lt;b&gt;CIDOC CRM • begreppsmodell / ontologi&lt;/b&gt;&lt;br&gt;&lt;b&gt;När:&lt;/b&gt; relationer och semantisk mappning (02, 04, 08).&lt;br&gt;&lt;b&gt;Ägare:&lt;/b&gt; informationsmodellering + systemförvaltning.&lt;br&gt;&lt;b&gt;Inte:&lt;/b&gt; påstående om Primus interna databas eller färdig implementerad CRM-export." tooltip="CIDOC CRM • begreppsmodell / ontologi | &lt;b&gt;När:&lt;/b&gt; relationer och semantisk mappning (02, 04, 08). | &lt;b&gt;Ägare:&lt;/b&gt; informationsmodellering + systemförvaltning. | &lt;b&gt;Inte:&lt;/b&gt; påstående om Primus interna databas eller färdig implementerad CRM-export.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="920" y="160" width="840" height="210" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="ref2" label="&lt;b&gt;LIDO / Dublin Core • informationsutbyte&lt;/b&gt;&lt;br&gt;&lt;b&gt;När:&lt;/b&gt; export till bevarande eller mottagande tjänst (04, 07, 08).&lt;br&gt;&lt;b&gt;Ägare:&lt;/b&gt; informations-/systemförvaltning.&lt;br&gt;&lt;b&gt;Notera:&lt;/b&gt; LIDO är XML; Dublin Core är metadatatermer med vald serialisering. Behåll rik källdata." tooltip="LIDO / Dublin Core • informationsutbyte | &lt;b&gt;När:&lt;/b&gt; export till bevarande eller mottagande tjänst (04, 07, 08). | &lt;b&gt;Ägare:&lt;/b&gt; informations-/systemförvaltning. | &lt;b&gt;Notera:&lt;/b&gt; LIDO är XML; Dublin Core är metadatatermer med vald serialisering. Behåll rik källdata.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="395" width="840" height="210" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="ref3" label="&lt;b&gt;OAIS • referensmodell för bevarande&lt;/b&gt;&lt;br&gt;&lt;b&gt;När:&lt;/b&gt; SIP vid leverans (04), AIP efter ingest och under bevarande (05–06), DIP vid utlämning (07).&lt;br&gt;&lt;b&gt;Ägare:&lt;/b&gt; bevarandefunktion + teknisk lösning.&lt;br&gt;&lt;b&gt;Inte:&lt;/b&gt; en bestämd filkatalog eller certifiering av RODA." tooltip="OAIS • referensmodell för bevarande | &lt;b&gt;När:&lt;/b&gt; SIP vid leverans (04), AIP efter ingest och under bevarande (05–06), DIP vid utlämning (07). | &lt;b&gt;Ägare:&lt;/b&gt; bevarandefunktion + teknisk lösning. | &lt;b&gt;Inte:&lt;/b&gt; en bestämd filkatalog eller certifiering av RODA.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="920" y="395" width="840" height="210" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="ref4" label="&lt;b&gt;SHA-256 • FIPS 180-4&lt;/b&gt;&lt;br&gt;&lt;b&gt;När:&lt;/b&gt; manifest skapas, överföring verifieras och integritet följs upp (04–06).&lt;br&gt;&lt;b&gt;Ägare:&lt;/b&gt; IT/KSD + bevarandefunktionen.&lt;br&gt;&lt;b&gt;Inte:&lt;/b&gt; bevis för korrekt motiv, rättighet eller fullständig bevarandeprocess." tooltip="SHA-256 • FIPS 180-4 | &lt;b&gt;När:&lt;/b&gt; manifest skapas, överföring verifieras och integritet följs upp (04–06). | &lt;b&gt;Ägare:&lt;/b&gt; IT/KSD + bevarandefunktionen. | &lt;b&gt;Inte:&lt;/b&gt; bevis för korrekt motiv, rättighet eller fullständig bevarandeprocess.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="630" width="840" height="210" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="ref5" label="&lt;b&gt;E-ARK CSIP/SIP/AIP/DIP • villkorad profil&lt;/b&gt;&lt;br&gt;&lt;b&gt;När:&lt;/b&gt; om beslutade leverans-/bevaranderegler kräver det (04–05).&lt;br&gt;&lt;b&gt;Källa:&lt;/b&gt; exempelritningen nämner VGR-tillämpning v3.0.&lt;br&gt;&lt;b&gt;Återstår:&lt;/b&gt; skaffa specifikationen, bekräfta version och validera mot rätt scheman. Konformitet är inte verifierad." tooltip="E-ARK CSIP/SIP/AIP/DIP • villkorad profil | &lt;b&gt;När:&lt;/b&gt; om beslutade leverans-/bevaranderegler kräver det (04–05). | &lt;b&gt;Källa:&lt;/b&gt; exempelritningen nämner VGR-tillämpning v3.0. | &lt;b&gt;Återstår:&lt;/b&gt; skaffa specifikationen, bekräfta version och validera mot rätt scheman. Konformitet är inte verifierad.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7ED;strokeColor=#C2410C;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="920" y="630" width="840" height="210" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="ref6" label="&lt;b&gt;Överlämningar • vad varje part måste få&lt;/b&gt;&lt;br&gt;&lt;b&gt;Museet → informationsförvaltning:&lt;/b&gt; master, ID, rik metadata, källor och bevarandebeslut.&lt;br&gt;&lt;b&gt;Informationsförvaltning → bevarande:&lt;/b&gt; verifierad profil/mappning och spårbart SIP.&lt;br&gt;&lt;b&gt;Bevarande → museet:&lt;/b&gt; kvittens/felrapport, AIP-ID och version." tooltip="Överlämningar • vad varje part måste få | &lt;b&gt;Museet → informationsförvaltning:&lt;/b&gt; master, ID, rik metadata, källor och bevarandebeslut. | &lt;b&gt;Informationsförvaltning → bevarande:&lt;/b&gt; verifierad profil/mappning och spårbart SIP. | &lt;b&gt;Bevarande → museet:&lt;/b&gt; kvittens/felrapport, AIP-ID och version.">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="40" y="865" width="840" height="210" as="geometry" />
+          </mxCell>
+        </object>
+        <object id="ref7" label="&lt;b&gt;Gemensamma beslut före produktionssättning&lt;/b&gt;&lt;br&gt;Informationsprofil och fältkrav; format och validering; behörigheter; överförings-/ändringsrutiner; gallringsbeslut; antal kopior; kontrollintervall; larm/återställning; migreringskriterier och publiceringsvillkor.&lt;br&gt;&lt;b&gt;IT/KSD säkrar tekniken – museet beslutar om innehåll.&lt;/b&gt;" tooltip="Gemensamma beslut före produktionssättning | Informationsprofil och fältkrav; format och validering; behörigheter; överförings-/ändringsrutiner; gallringsbeslut; antal kopior; kontrollintervall; larm/återställning; migreringskriterier och publiceringsvillkor. | &lt;b&gt;IT/KSD säkrar tekniken – museet beslutar om innehåll.&lt;/b&gt;">
+          <mxCell vertex="1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F1F5F9;strokeColor=#94A3B8;fontColor=#0F172A;fontFamily=Helvetica;fontSize=17;spacing=12;strokeWidth=1.5;align=left;verticalAlign=middle;">
+            <mxGeometry x="920" y="865" width="840" height="210" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="sources" value="Officiella orienteringskällor: collectionstrust.org.uk/spectrum • cidoc-crm.org • lido-schema.org • dublincore.org&lt;br&gt;OAIS: public.ccsds.org (650.0) • E-ARK: e-ark-foundation.eu • SHA-256: csrc.nist.gov/pubs/fips/180-4/upd1/final" vertex="1" parent="1" style="text;html=1;whiteSpace=wrap;align=left;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#475569;spacing=0;">
+          <mxGeometry x="40" y="1110" width="1700" height="45" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
